@@ -50,7 +50,7 @@
               <Color blue="ff" green="ff" red="ff" type="rgb"/>
             </Property>
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-              <Font name="Times New Roman" size="18" style="0"/>
+              <Font name="Times New Roman" size="18" style="1"/>
             </Property>
             <Property name="text" type="java.lang.String" value="PILIHAN MENU"/>
           </Properties>
@@ -63,7 +63,7 @@
         <Component class="javax.swing.JLabel" name="jLabel1">
           <Properties>
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-              <Font name="Arial" size="12" style="1"/>
+              <Font name="Arial Black" size="12" style="1"/>
             </Property>
             <Property name="text" type="java.lang.String" value="[4] PETUNJUK"/>
           </Properties>
@@ -76,7 +76,7 @@
         <Component class="javax.swing.JLabel" name="jLabel2">
           <Properties>
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-              <Font name="Arial" size="12" style="1"/>
+              <Font name="Arial Black" size="12" style="1"/>
             </Property>
             <Property name="text" type="java.lang.String" value="[1] INFORMASI SALDO"/>
           </Properties>
@@ -89,7 +89,7 @@
         <Component class="javax.swing.JLabel" name="jLabel3">
           <Properties>
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-              <Font name="Arial" size="12" style="1"/>
+              <Font name="Arial Black" size="12" style="1"/>
             </Property>
             <Property name="text" type="java.lang.String" value="[5] KELUAR"/>
           </Properties>
@@ -102,7 +102,7 @@
         <Component class="javax.swing.JLabel" name="jLabel5">
           <Properties>
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-              <Font name="Arial" size="12" style="1"/>
+              <Font name="Arial Black" size="12" style="1"/>
             </Property>
             <Property name="text" type="java.lang.String" value="[3] PENARIKAN"/>
           </Properties>
@@ -115,7 +115,7 @@
         <Component class="javax.swing.JLabel" name="jLabel6">
           <Properties>
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-              <Font name="Arial" size="12" style="1"/>
+              <Font name="Arial Black" size="12" style="1"/>
             </Property>
             <Property name="text" type="java.lang.String" value="[2] PENYETORAN"/>
           </Properties>
@@ -128,7 +128,7 @@
         <Component class="javax.swing.JTextField" name="tfPilih">
           <Constraints>
             <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-              <AbsoluteConstraints x="70" y="220" width="200" height="30"/>
+              <AbsoluteConstraints x="140" y="220" width="60" height="40"/>
             </Constraint>
           </Constraints>
         </Component>
@@ -144,7 +144,7 @@
           </Events>
           <Constraints>
             <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-              <AbsoluteConstraints x="130" y="260" width="80" height="30"/>
+              <AbsoluteConstraints x="130" y="270" width="80" height="30"/>
             </Constraint>
           </Constraints>
         </Component>

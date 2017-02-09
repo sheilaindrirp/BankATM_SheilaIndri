@@ -52,37 +52,37 @@ int t,s,tab=50000;
         jPanel1.setLayout(null);
 
         jLabel4.setBackground(new java.awt.Color(255, 255, 255));
-        jLabel4.setFont(new java.awt.Font("Times New Roman", 0, 18)); // NOI18N
+        jLabel4.setFont(new java.awt.Font("Times New Roman", 1, 18)); // NOI18N
         jLabel4.setText("PILIHAN MENU");
         jPanel1.add(jLabel4);
         jLabel4.setBounds(130, 10, 150, 40);
 
-        jLabel1.setFont(new java.awt.Font("Arial", 1, 12)); // NOI18N
+        jLabel1.setFont(new java.awt.Font("Arial Black", 1, 12)); // NOI18N
         jLabel1.setText("[4] PETUNJUK");
         jPanel1.add(jLabel1);
         jLabel1.setBounds(70, 150, 230, 30);
 
-        jLabel2.setFont(new java.awt.Font("Arial", 1, 12)); // NOI18N
+        jLabel2.setFont(new java.awt.Font("Arial Black", 1, 12)); // NOI18N
         jLabel2.setText("[1] INFORMASI SALDO");
         jPanel1.add(jLabel2);
         jLabel2.setBounds(70, 60, 230, 30);
 
-        jLabel3.setFont(new java.awt.Font("Arial", 1, 12)); // NOI18N
+        jLabel3.setFont(new java.awt.Font("Arial Black", 1, 12)); // NOI18N
         jLabel3.setText("[5] KELUAR");
         jPanel1.add(jLabel3);
         jLabel3.setBounds(70, 180, 230, 30);
 
-        jLabel5.setFont(new java.awt.Font("Arial", 1, 12)); // NOI18N
+        jLabel5.setFont(new java.awt.Font("Arial Black", 1, 12)); // NOI18N
         jLabel5.setText("[3] PENARIKAN");
         jPanel1.add(jLabel5);
         jLabel5.setBounds(70, 120, 230, 30);
 
-        jLabel6.setFont(new java.awt.Font("Arial", 1, 12)); // NOI18N
+        jLabel6.setFont(new java.awt.Font("Arial Black", 1, 12)); // NOI18N
         jLabel6.setText("[2] PENYETORAN");
         jPanel1.add(jLabel6);
         jLabel6.setBounds(70, 90, 230, 30);
         jPanel1.add(tfPilih);
-        tfPilih.setBounds(70, 220, 200, 30);
+        tfPilih.setBounds(140, 220, 60, 40);
 
         btPilih.setBackground(new java.awt.Color(255, 255, 255));
         btPilih.setText("ENTER");
@@ -92,7 +92,7 @@ int t,s,tab=50000;
             }
         });
         jPanel1.add(btPilih);
-        btPilih.setBounds(130, 260, 80, 30);
+        btPilih.setBounds(130, 270, 80, 30);
 
         getContentPane().add(jPanel1);
         jPanel1.setBounds(0, 0, 380, 320);

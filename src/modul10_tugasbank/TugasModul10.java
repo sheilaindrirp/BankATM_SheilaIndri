@@ -45,9 +45,9 @@ int t,s,tab=50000;
         jLabel1.setBounds(100, 70, 200, 40);
 
         jLabel2.setFont(new java.awt.Font("Times New Roman", 0, 18)); // NOI18N
-        jLabel2.setText("Masukkan PIN Anda");
+        jLabel2.setText("Masukkan PIN :");
         jPanel1.add(jLabel2);
-        jLabel2.setBounds(110, 120, 160, 40);
+        jLabel2.setBounds(130, 110, 160, 40);
 
         jLabel3.setFont(new java.awt.Font("Times New Roman", 0, 18)); // NOI18N
         jLabel3.setText("ANJUNGAN TUNAI MANDIRI");

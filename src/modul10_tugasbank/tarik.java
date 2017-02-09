@@ -16,7 +16,7 @@ public class tarik {
     public void ambil (int tab, int t)
     {
         if(t%100!=0)
-            JOptionPane.showMessageDialog(null, "Mesin ATM BRI tidak menerima uang koin \nSilahkan ulagi Lagi", "Transaksi Gagal",0);
+            JOptionPane.showMessageDialog(null, "Mesin ATM BRI tidak menerima uang koin \nSilahkan ulangi Lagi", "Transaksi Gagal",0);
         else{
             if(t>tab)
             JOptionPane.showMessageDialog(null, "Saldo anda tidak mencukupi \nSilahkan melakukan penyetoran", "Transaksi Gagal",0); 

@@ -21,7 +21,7 @@ public class setor {
             JOptionPane.showMessageDialog(null, "Besaran minimal setor tunai adalah Rp.50.000,00", "ERROR",0);
         else if(s>=50000)
             saldo = tab+s;
-            JOptionPane.showMessageDialog(null, "Saldo anda saat ini sebesar : " + saldo);
+            JOptionPane.showMessageDialog(null, "Saldoo anda saat ini sebesar : " + saldo);
     }
 
     public int getsaldo(){
